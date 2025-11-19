@@ -41,13 +41,21 @@ venv.bak/
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# Trained Models and Data
+# Trained Models and Data (keep folder structure)
 TrainingImageLabel/Trainner.yml
 TrainingImageLabel/psd.txt
+TrainingImageLabel/*
+!TrainingImageLabel/.gitkeep
 TrainingImage/*.jpg
 TrainingImage/*.png
+TrainingImage/*
+!TrainingImage/.gitkeep
 StudentDetails/*.csv
+StudentDetails/*
+!StudentDetails/.gitkeep
 Attendance/*.csv
+Attendance/*
+!Attendance/.gitkeep
 
 # Logs
 *.log
