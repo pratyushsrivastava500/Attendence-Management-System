@@ -404,4 +404,8 @@ For questions or support, please open an issue on GitHub.
 
 ---
 
-**Made with ❤️ and Python | © 2025 Pratyush Srivastava**
+<div align="center">
+  <strong>**Made with ❤️ and Python | © 2025 Pratyush Srivastava**
+</strong>
+</div>
+
