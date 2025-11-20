@@ -405,7 +405,7 @@ For questions or support, please open an issue on GitHub.
 ---
 
 <div align="center">
-  <strong>**Made with ❤️ and Python | © 2025 Pratyush Srivastava**
+  <strong>Made with ❤️ and Python | © 2025 Pratyush Srivastava
 </strong>
 </div>
 
